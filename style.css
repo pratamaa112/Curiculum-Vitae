@@ -110,7 +110,7 @@ body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: var(--animasi);
+    background: var(--hover);
     height: 25rem;
     width: 25rem;
     border-radius: 50%;
